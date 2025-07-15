@@ -1,4 +1,4 @@
-# 🛒 E-commerce Data Analysis Dashboard
+# 🛒 E-commerce Data Analysis 
 
 This project presents an interactive data analysis of an e-commerce dataset using Python, Jupyter Notebook, and visualization libraries. It explores customer behavior, sales trends, and product performance to derive actionable business insights for stakeholders.
 
